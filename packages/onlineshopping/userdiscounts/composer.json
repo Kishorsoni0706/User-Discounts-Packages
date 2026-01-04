@@ -1,0 +1,12 @@
+{
+    "name": "onlineshopping/userdiscounts",
+    "description": "User Discounts package for Online Shopping",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Onlineshopping\\Userdiscounts\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
